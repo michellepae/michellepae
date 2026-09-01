@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Min-ju! 👋
+# 💫 Hi there, I'm Min-joo! 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Minju's%20GitHub!&fontSize=40&animation=fadeIn" />
