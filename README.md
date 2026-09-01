@@ -5,9 +5,9 @@
 </p>
 
 ## 🙋‍♀️ About Me
-- 🔭 **Currently Working On**: 사용자 중심의 웹 애플리케이션 및 금융/지역 서비스 개발
-- 🌱 **Currently Learning**: Vue.js 3 (Composition API), JavaScript (ES6+), Pinia, Vite
-- 💡 **Interest**: 직관적인 UX/UI 설계 및 반응형 웹 프론트엔드 인터랙션 구현
+- 🔭 **Currently Working On**: 시니어 세대를 위한 맞춤형 금융 웹 애플리케이션 개발
+- 🌱 **Currently Learning**: Vue.js 3 (Composition API), Pinia, Vite, Java & Spring Boot
+- 💡 **Interest**: 고성능·안정성을 갖춘 백엔드 아키텍처 설계 및 직관적인 UX/UI 구현
 - 📫 **How to reach me**: michellepae@github.com
 
 ---
