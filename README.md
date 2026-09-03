@@ -49,7 +49,7 @@
 
 <br/>
 
-### 👵 2. KB-SilverTown | [🔗 GitHub Organization](https://github.com/KB-SilverTown)
+### 👵 2. KB-SilverTown
 > **시니어 세대를 위한 맞춤형 주거/체험 서비스 안내 플랫폼**  
 > **Role**: FrontEnd  
 > **Tech**: Vue.js, JavaScript, HTML/CSS, Git
